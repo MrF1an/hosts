@@ -1,5 +1,8 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-#==============================
-
+########## GOOD ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
+
+########## TEST ##########
+0.0.0.0 a1873.dscd.akamai.net
+0.0.0.0 a1962.dscw16.akamai.net
