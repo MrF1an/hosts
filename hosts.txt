@@ -53,8 +53,6 @@
 0.0.0.0 d25pz135u51kvn.cloudfront.net
 0.0.0.0 d39664amh4bo3k.cloudfront.net
 0.0.0.0 da.anythinktech.com
-0.0.0.0 dualstack.twimg.twitter.map.fastly.net
-0.0.0.0 dualstack.video.twitter.map.fastly.net
 0.0.0.0 e105974.a.akamaiedge.net
 0.0.0.0 e3528.dscg.akamaiedge.net
 0.0.0.0 e673.dsce9.akamaiedge.net
