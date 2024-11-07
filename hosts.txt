@@ -5,7 +5,6 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 moe_wl7v.api-02.moengage.com
-0.0.0.0 image6.pubmatic.com
 ########## TEST ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
