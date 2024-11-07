@@ -2,15 +2,15 @@
 # History: [02/11/2024]
 # Update:  [06/11/2024]
 ########## GOOD ##########
-
-
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 pangolin16.sgsnssdk.com
+0.0.0.0 moe_wl7v.api-02.moengage.com
+0.0.0.0 image6.pubmatic.com
 ########## TEST ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
 0.0.0.0 6hvomk-launches.appsflyersdk.com
-0.0.0.0 a1051.dscg4.akamai.net
 0.0.0.0 a1873.dscd.akamai.net
-0.0.0.0 a1931.dscgi3.akamai.net.0.1.cn.akamaitech.net
 0.0.0.0 a1962.dscw16.akamai.net
 0.0.0.0 a2047.api2.akamai.net
 0.0.0.0 a2047.mm2.akamai.net
@@ -42,8 +42,6 @@
 0.0.0.0 d39664amh4bo3k.cloudfront.net
 0.0.0.0 da.anythinktech.com
 0.0.0.0 e105974.a.akamaiedge.net
-0.0.0.0 e3528.dscg.akamaiedge.net
-0.0.0.0 e6858.dscx.akamaiedge.net
 0.0.0.0 eb1c4s-inapps.appsflyersdk.com
 0.0.0.0 eb1c4s-launches.appsflyersdk.com
 0.0.0.0 ep2.facebook.com
