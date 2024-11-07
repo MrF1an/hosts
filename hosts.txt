@@ -1,10 +1,42 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [06/11/2024]
+# Update:  [07/11/2024]
 ########## GOOD ##########
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 ajax.cloudflare.com
+0.0.0.0 api2.amplitude.com
+0.0.0.0 api.lab.amplitude.com
+0.0.0.0 api.onesignal.com
+0.0.0.0 api.xmpush.global.xiaomi.com
+0.0.0.0 b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com
+0.0.0.0 by.uservoice.com
+0.0.0.0 cdn.prod.metrics.imdb.a2z.com
+0.0.0.0 codepush.appcenter.ms
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 dt.beyla.site
+0.0.0.0 engine.fyber.com
 0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 pangolin16.sgsnssdk.com
+0.0.0.0 flag.lab.amplitude.com
+0.0.0.0 gdl.news-cdn.site
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 in.appcenter.ms
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 init.startappexchange.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 mobile.useinsider.com
 0.0.0.0 moe_wl7v.api-02.moengage.com
+0.0.0.0 mssdk-sg.byteoversea.com
+0.0.0.0 pangolin16.sgsnssdk.com
+0.0.0.0 pok.mintegral.net
+0.0.0.0 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+0.0.0.0 regionconfig.amplitude.com
+0.0.0.0 rs.wshareit.com
+0.0.0.0 sdk-01.moengage.com
+0.0.0.0 sdk-04.moengage.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 www.startappexchange.com
 ########## TEST ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
