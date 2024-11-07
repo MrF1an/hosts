@@ -88,8 +88,6 @@
 0.0.0.0 ocsp.rootca1.amazontrust.com
 0.0.0.0 out-fe-base-eks-pp-1ad6b32eb5dbe9d3.elb.us-west-2.amazonaws.com
 0.0.0.0 p16-be-pack-va.i18n-pglstatp.com
-0.0.0.0 p16-sign-sg.tiktokcdn.com
-0.0.0.0 p16-sign-va.tiktokcdn.com
 0.0.0.0 p16-ttam-va.ibyteimg.com
 0.0.0.0 prod-analytics.qlitics.com
 0.0.0.0 qdgdyz-cdn-settings.appsflyersdk.com
