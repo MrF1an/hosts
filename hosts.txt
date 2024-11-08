@@ -51,6 +51,7 @@
 ########## TEST ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 e0f70676aacfe16e0d572146c31138e590e941ce.appgw.conviva.com
+0.0.0.0 rc.conviva.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
 0.0.0.0 6hvomk-launches.appsflyersdk.com
 0.0.0.0 a1873.dscd.akamai.net
