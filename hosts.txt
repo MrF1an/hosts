@@ -156,6 +156,7 @@
 0.0.0.0 nabd.devops.arabiaweather.com
 0.0.0.0 ocsp.r2m02.amazontrust.com
 0.0.0.0 ocsp.rootca1.amazontrust.com
+0.0.0.0 ol.makinguseable.com
 0.0.0.0 out-fe-base-eks-pp-1ad6b32eb5dbe9d3.elb.us-west-2.amazonaws.com
 0.0.0.0 p16-be-pack-va.i18n-pglstatp.com
 0.0.0.0 p16-ttam-va.ibyteimg.com
@@ -166,8 +167,6 @@
 0.0.0.0 qdgdyz-launches.appsflyersdk.com
 0.0.0.0 qin.tuyaeu.com
 0.0.0.0 queue.simpleanalyticscdn.com
-0.0.0.0 rr3.sn-hvcpat-wxqk.googlevideo.com
-0.0.0.0 rr6---sn-hvcpat-wxqr.googlevideo.com
 0.0.0.0 s3-1-w.amazonaws.com
 0.0.0.0 s3-w.us-east-1.amazonaws.com
 0.0.0.0 service-reviews-ultimate.elfsight.com
