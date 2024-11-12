@@ -60,6 +60,8 @@
 0.0.0.0 fwtracks.freshmarketer.com
 0.0.0.0 gdl.news-cdn.site
 0.0.0.0 grs.hicloud.com
+0.0.0.0 https-api-hk.bigolive.tv
+0.0.0.0 https-api.bigolive.tv
 0.0.0.0 identify.hotjar.com
 0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 in.appcenter.ms
