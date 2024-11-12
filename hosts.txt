@@ -111,6 +111,7 @@
 0.0.0.0 www.startappexchange.com
 0.0.0.0 www.tapresearch.com
 ########## AD.APPS ##########
+0.0.0.0 out-fe-base-eks-e274fba44aeb92e5.elb.eu-central-1.amazonaws.com
 0.0.0.0 wshareit.com
 0.0.0.0 rqmob.com
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
