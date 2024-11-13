@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [12/11/2024]
-# Number:  [208]
+# Update:  [13/11/2024]
+# Number:  [210]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -111,9 +111,6 @@
 0.0.0.0 www.startappexchange.com
 0.0.0.0 www.tapresearch.com
 ########## AD.APPS ##########
-0.0.0.0 out-fe-base-eks-e274fba44aeb92e5.elb.eu-central-1.amazonaws.com
-0.0.0.0 wshareit.com
-0.0.0.0 rqmob.com
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
 0.0.0.0 6hvomk-launches.appsflyersdk.com
@@ -178,6 +175,7 @@
 0.0.0.0 ocsp.r2m02.amazontrust.com
 0.0.0.0 ocsp.rootca1.amazontrust.com
 0.0.0.0 ol.makinguseable.com
+0.0.0.0 out-fe-base-eks-e274fba44aeb92e5.elb.eu-central-1.amazonaws.com
 0.0.0.0 out-fe-base-eks-pp-1ad6b32eb5dbe9d3.elb.us-west-2.amazonaws.com
 0.0.0.0 p16-be-pack-va.i18n-pglstatp.com
 0.0.0.0 p16-ttam-va.ibyteimg.com
@@ -190,6 +188,7 @@
 0.0.0.0 qin.tuyaeu.com
 0.0.0.0 queue.simpleanalyticscdn.com
 0.0.0.0 rc.conviva.com
+0.0.0.0 rqmob.com
 0.0.0.0 s3-1-w.amazonaws.com
 0.0.0.0 s3-w.us-east-1.amazonaws.com
 0.0.0.0 service-reviews-ultimate.elfsight.com
@@ -214,4 +213,5 @@
 0.0.0.0 viot-obs.jftech.com.b0b1fafb.cdnhwcxcy07.com
 0.0.0.0 waws-prod-am2-049.vip.azurewebsites.windows.net
 0.0.0.0 weather-statuses.devops.arabiaweather.com
+0.0.0.0 wshareit.com
 0.0.0.0 x3ykig22yl.execute-api.eu-west-1.amazonaws.com
