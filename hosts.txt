@@ -99,7 +99,6 @@
 0.0.0.0 sdk-01.moengage.com
 0.0.0.0 sdk-04.moengage.com
 0.0.0.0 sdk.qikify.com
-0.0.0.0 sdk.split.io
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 tools.mouseflow.com
