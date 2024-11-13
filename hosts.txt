@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [13/11/2024]
-# Number:  [209]
+# Number:  [208]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -188,7 +188,6 @@
 0.0.0.0 queue.simpleanalyticscdn.com
 0.0.0.0 rc.conviva.com
 0.0.0.0 rqmob.com
-0.0.0.0 s3-w.us-east-1.amazonaws.com
 0.0.0.0 service-reviews-ultimate.elfsight.com
 0.0.0.0 sf16-scmcdn-sg.i18n-pglstatp.com
 0.0.0.0 sf16-static.i18n-pglstatp.com
