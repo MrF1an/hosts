@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [14/11/2024]
-# Number:  [217]
+# Number:  [221]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -137,6 +137,8 @@
 0.0.0.0 analytics.adjust.com
 0.0.0.0 analytics.adjust.io
 0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 api16-dual-event-sg2.pangle.io
 0.0.0.0 api16-event-va.pangle.io
 0.0.0.0 api16-log-va.pangle.io
@@ -171,7 +173,9 @@
 0.0.0.0 eventlog-aws.jftechws.com
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 feed-api.tiks.pro
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 ij9i95qkc2.execute-api.eu-west-1.amazonaws.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 ios.fnyfeds.com
 0.0.0.0 kqd06oflxl.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 lf16-data.bytepluscdn.com
