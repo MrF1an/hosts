@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [13/11/2024]
-# Number:  [208]
+# Update:  [14/11/2024]
+# Number:  [210]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -211,5 +211,6 @@
 0.0.0.0 viot-obs.jftech.com.b0b1fafb.cdnhwcxcy07.com
 0.0.0.0 waws-prod-am2-049.vip.azurewebsites.windows.net
 0.0.0.0 weather-statuses.devops.arabiaweather.com
+0.0.0.0 web.facebook.com
 0.0.0.0 wshareit.com
 0.0.0.0 x3ykig22yl.execute-api.eu-west-1.amazonaws.com
