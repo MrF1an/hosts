@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [15/11/2024]
-# Number:  [221]
+# Number:  [222]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -179,6 +179,7 @@
 0.0.0.0 ios.fnyfeds.com
 0.0.0.0 kqd06oflxl.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 lf16-data.bytepluscdn.com
+0.0.0.0 lma.npaw.com
 0.0.0.0 nabd.devops.arabiaweather.com
 0.0.0.0 net.mtgglobals.com
 0.0.0.0 ocsp.r2m02.amazontrust.com
