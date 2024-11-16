@@ -150,7 +150,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.jftechws.com
 0.0.0.0 api.revenuads.com
-0.0.0.0 api.revenuecat.com
+# 0.0.0.0 api.revenuecat.com رابط تعطيل صفحة الشراء في راداد بوت
 0.0.0.0 api.snapkit.com
 0.0.0.0 api.toponadss.com
 0.0.0.0 app-analytics-services.com
