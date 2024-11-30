@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [29/11/2024]
-# Number:  [218]
+# Update:  [30/11/2024]
+# Number:  [216]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -115,8 +115,6 @@
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
 0.0.0.0 6hvomk-launches.appsflyersdk.com
-0.0.0.0 a410.dsct.akamai.net
-0.0.0.0 a441.dscd.akamai.net
 0.0.0.0 a805.t.akamai.net
 0.0.0.0 a1873.dscd.akamai.net
 0.0.0.0 a1962.dscw16.akamai.net
