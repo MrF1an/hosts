@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [30/11/2024]
-# Number:  [216]
+# Update:  [02/12/2024]
+# Number:  [215]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -156,7 +156,6 @@
 0.0.0.0 clicks-inges-2y0j3n2tbrvg-532246359.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 configure-tcp-ios.mtgglobals.com
-0.0.0.0 d25pz135u51kvn.cloudfront.net
 0.0.0.0 d39664amh4bo3k.cloudfront.net
 0.0.0.0 da.anythinktech.com
 0.0.0.0 da.bridgeoos.com
