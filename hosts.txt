@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [02/12/2024]
-# Number:  [215]
+# Update:  [04/12/2024]
+# Number:  [214]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -12,7 +12,6 @@
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 afs.googlesyndication.com
-0.0.0.0 ajax.cloudflare.com
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 amplitude.com
 0.0.0.0 analytics-api.samsunghealthcn.com
