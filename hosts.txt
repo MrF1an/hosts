@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [18/08/2025]
-# Number:  [217]
+# Number:  [226]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -19,6 +19,7 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api.bidmachine.io
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.engager.ecbsn.com
 0.0.0.0 api.lab.amplitude.com
@@ -85,9 +86,12 @@
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 moe_wl7v.api-02.moengage.com
 0.0.0.0 mssdk-sg.byteoversea.com
+0.0.0.0 news.opera-api.com
+0.0.0.0 observe-http.mintegral.net
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 pok.mintegral.net
+0.0.0.0 pps.feednews.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 prod-event-relay-books-api.v.aaplimg.com
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
@@ -102,9 +106,11 @@
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 sdk-01.moengage.com
 0.0.0.0 sdk-04.moengage.com
+0.0.0.0 sdk-api.kidoz.net
 0.0.0.0 sdk.qikify.com
 0.0.0.0 sdk.split.io
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 udc.yahoo.com
@@ -114,6 +120,9 @@
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 www.startappexchange.com
 0.0.0.0 www.tapresearch.com
+0.0.0.0 x.blueduckredapple.com
+0.0.0.0 x.everestop.io
+0.0.0.0 x.thecatmachine.com
 ########## AD.APPS ##########
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
