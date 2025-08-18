@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [18/08/2025]
-# Number:  [226]
+# Update:  [19/08/2025]
+# Number:  [228]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -35,6 +35,7 @@
 0.0.0.0 b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 by.uservoice.com
@@ -111,6 +112,7 @@
 0.0.0.0 sdk.split.io
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 static-cdn.hotjar.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 udc.yahoo.com
