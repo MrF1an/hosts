@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [19/08/2025]
-# Number:  [228]
+# Number:  [227]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -87,7 +87,6 @@
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 moe_wl7v.api-02.moengage.com
 0.0.0.0 mssdk-sg.byteoversea.com
-0.0.0.0 news.opera-api.com
 0.0.0.0 observe-http.mintegral.net
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 pangolin16.sgsnssdk.com
