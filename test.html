@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>آلة حاسبة</title>
+    <style>
+        /* تصميم الآلة الحاسبة باستخدام CSS */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .calculator {
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            width: 300px;
+        }
+
+        .display {
+            background-color: #444;
+            color: #fff;
+            font-size: 2.5em;
+            text-align: right;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            height: 50px;
+            overflow: hidden; /* لمنع تجاوز النص */
+        }
+
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+
+        .btn {
+            padding: 20px;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .number, .decimal {
+            background-color: #666;
+            color: #fff;
+        }
+
+        .operator {
+            background-color: #ff9500;
+            color: #fff;
+        }
+
+        .clear, .equal {
+            background-color: #a6a6a6;
+            color: #000;
+        }
+
+        .btn:hover {
+            filter: brightness(1.2);
+        }
+
+        /* زر الصفر يمتد على عمودين */
+        .zero {
+            grid-column: span 2;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="calculator">
+    <div class="display" id="display">0</div>
+
+    <div class="buttons">
+        <button class="btn clear" onclick="clearDisplay()">AC</button>
+        <button class="btn operator" onclick="appendOperator('/')">/</button>
+        <button class="btn operator" onclick="appendOperator('*')">×</button>
+        <button class="btn operator" onclick="appendOperator('-')">-</button>
+
+        <button class="btn number" onclick="appendNumber('7')">7</button>
+        <button class="btn number" onclick="appendNumber('8')">8</button>
+        <button class="btn number" onclick="appendNumber('9')">9</button>
+        <button class="btn operator" onclick="appendOperator('+')">+</button>
+
+        <button class="btn number" onclick="appendNumber('4')">4</button>
+        <button class="btn number" onclick="appendNumber('5')">5</button>
+        <button class="btn number" onclick="appendNumber('6')">6</button>
+        <button class="btn equal" onclick="calculate()">=</button>
+
+        <button class="btn number" onclick="appendNumber('1')">1</button>
+        <button class="btn number" onclick="appendNumber('2')">2</button>
+        <button class="btn number" onclick="appendNumber('3')">3</button>
+        <button class="btn zero number" onclick="appendNumber('0')">0</button>
+        <button class="btn decimal" onclick="appendDecimal()">.</button>
+    </div>
+</div>
+
+<script>
+    // وظائف الحساب باستخدام JavaScript
+    const display = document.getElementById('display');
+    let currentInput = '0';
+    let operator = null;
+    let firstOperand = null;
+    let waitingForSecondOperand = false;
+
+    function updateDisplay() {
+        display.textContent = currentInput;
+    }
+
+    function clearDisplay() {
+        currentInput = '0';
+        operator = null;
+        firstOperand = null;
+        waitingForSecondOperand = false;
+        updateDisplay();
+    }
+
+    function appendNumber(number) {
+        if (waitingForSecondOperand) {
+            currentInput = number;
+            waitingForSecondOperand = false;
+        } else {
+            // منع أصفار البداية غير الضرورية
+            if (currentInput === '0' && number !== '.') {
+                currentInput = number;
+            } else {
+                currentInput += number;
+            }
+        }
+        updateDisplay();
+    }
+
+    function appendDecimal() {
+        if (waitingForSecondOperand) {
+            currentInput = '0.';
+            waitingForSecondOperand = false;
+        } else if (!currentInput.includes('.')) {
+            currentInput += '.';
+        }
+        updateDisplay();
+    }
+
+    function appendOperator(nextOperator) {
+        const inputValue = parseFloat(currentInput);
+
+        if (operator && waitingForSecondOperand) {
+            operator = nextOperator;
+            return;
+        }
+
+        if (firstOperand === null) {
+            firstOperand = inputValue;
+        } else if (operator) {
+            const result = performCalculation(firstOperand, inputValue, operator);
+            currentInput = String(result);
+            firstOperand = result;
+        }
+
+        waitingForSecondOperand = true;
+        operator = nextOperator;
+        updateDisplay();
+    }
+
+    function performCalculation(operand1, operand2, op) {
+        switch (op) {
+            case '+':
+                return operand1 + operand2;
+            case '-':
+                return operand1 - operand2;
+            case '*':
+                return operand1 * operand2;
+            case '/':
+                if (operand2 === 0) {
+                    alert('لا يمكن القسمة على صفر!');
+                    return 0;
+                }
+                return operand1 / operand2;
+            default:
+                return operand2;
+        }
+    }
+
+    function calculate() {
+        if (operator === null || waitingForSecondOperand) {
+            return;
+        }
+
+        const secondOperand = parseFloat(currentInput);
+        const result = performCalculation(firstOperand, secondOperand, operator);
+
+        currentInput = String(result);
+        operator = null;
+        firstOperand = null; // لإعادة تهيئة الحساب التالي
+        waitingForSecondOperand = true; // لكي يبدأ الإدخال الجديد من الصفر
+        updateDisplay();
+    }
+
+    // تهيئة الشاشة عند البدء
+    clearDisplay();
+</script>
+
+</body>
+</html>
