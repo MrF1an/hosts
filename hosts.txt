@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [28/03/2026]
-# Number:  [224]
+# Update:  [29/06/2026]
+# Number:  [226]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -128,7 +128,6 @@
 0.0.0.0 5e6124a1d79d4c99b236894dd739a064.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 6hvomk-inapps.appsflyersdk.com
 0.0.0.0 6hvomk-launches.appsflyersdk.com
-# 0.0.0.0 a805.t.akamai.net
 0.0.0.0 a1873.dscd.akamai.net
 0.0.0.0 ad-host-backup-america.s3.us-west-1.amazonaws.com
 0.0.0.0 ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com
@@ -143,6 +142,7 @@
 0.0.0.0 adx-vg-req.anythinktech.com
 0.0.0.0 adx.ads.vungle.com
 0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 analytics.adjust.com
 0.0.0.0 analytics.adjust.io
 0.0.0.0 analytics.s3.amazonaws.com
@@ -179,6 +179,7 @@
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 feed-api.tiks.pro
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 gnsnpaw.com
 0.0.0.0 ij9i95qkc2.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 ios.fnyfeds.com
 0.0.0.0 kqd06oflxl.execute-api.eu-west-1.amazonaws.com
@@ -210,6 +211,7 @@
 0.0.0.0 sf19-static.i18n-pglstatp.com
 0.0.0.0 sg-new-cdn-ssplib-asia-southeast1-c-hb.mtgglobals.com
 0.0.0.0 sg-setting-tcp.mtgglobals.com
+0.0.0.0 shd-ads-vod.shahid.net
 0.0.0.0 ssdk-sg.pangle.io.ttdns2.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.fallback.c10r.facebook.com
