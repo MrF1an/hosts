@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [02/07/2026]
-# Number:  [227]
+# Number:  [232]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -141,6 +141,7 @@
 0.0.0.0 adx-os.toponadss.com
 0.0.0.0 adx-vg-req.anythinktech.com
 0.0.0.0 adx.ads.vungle.com
+0.0.0.0 adx.mossturbo.com
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 aes.eu-west.ono.axp.amazon-adsystem.com
 0.0.0.0 analytics.adjust.com
@@ -174,6 +175,7 @@
 0.0.0.0 e105974.a.akamaiedge.net
 0.0.0.0 eb1c4s-inapps.appsflyersdk.com
 0.0.0.0 eb1c4s-launches.appsflyersdk.com
+0.0.0.0 engagements.appsflyer.com
 0.0.0.0 ep2.facebook.com
 0.0.0.0 eus.r.inmobi.com
 0.0.0.0 eventlog-aws.jftechws.com
@@ -186,6 +188,7 @@
 0.0.0.0 kqd06oflxl.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 lf16-data.bytepluscdn.com
 0.0.0.0 lma.npaw.com
+0.0.0.0 metrics-dra.dt.hihonorcloud.com
 0.0.0.0 nabd.devops.arabiaweather.com
 0.0.0.0 net.mtgglobals.com
 0.0.0.0 ocsp.r2m02.amazontrust.com
@@ -205,6 +208,7 @@
 0.0.0.0 queue.simpleanalyticscdn.com
 0.0.0.0 rc.conviva.com
 0.0.0.0 region1.app-measurement.com
+0.0.0.0 rep.maxesads.com
 0.0.0.0 rqmob.com
 0.0.0.0 service-reviews-ultimate.elfsight.com
 0.0.0.0 sf16-scmcdn-sg.i18n-pglstatp.com
@@ -220,6 +224,7 @@
 0.0.0.0 tk.anythinktech.com
 0.0.0.0 tk.bridgeoos.com
 0.0.0.0 tk.toponadss.com
+0.0.0.0 tkda.mossturbo.com
 0.0.0.0 tnc16-alisg.byteoversea.com
 0.0.0.0 tuyasmart.appflip.tuya.com
 0.0.0.0 tuyasmart.applink.smart321.com
