@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
-# Update:  [29/06/2026]
-# Number:  [226]
+# Update:  [02/07/2026]
+# Number:  [227]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -148,6 +148,7 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 api16-dual-event-sg2.pangle.io
 0.0.0.0 api16-event-va.pangle.io
+0.0.0.0 api16-log-my.pangle.io
 0.0.0.0 api16-log-va.pangle.io
 0.0.0.0 api-st.image2image.art
 0.0.0.0 api.antibanads.com
