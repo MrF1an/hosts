@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [02/07/2026]
-# Number:  [233]
+# Number:  [231]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -157,7 +157,6 @@
 0.0.0.0 api.bridgeoos.com
 0.0.0.0 api.dollphoin.site
 0.0.0.0 api.instabug.com
-0.0.0.0 api.jftechws.com
 0.0.0.0 api.revenuads.com
 0.0.0.0 api.snapkit.com
 0.0.0.0 api.toponadss.com
@@ -178,7 +177,6 @@
 0.0.0.0 engagements.appsflyer.com
 0.0.0.0 ep2.facebook.com
 0.0.0.0 eus.r.inmobi.com
-0.0.0.0 eventlog-aws.jftechws.com
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 feed-api.tiks.pro
 0.0.0.0 firebase-settings.crashlytics.com
