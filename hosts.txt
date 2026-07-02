@@ -1,7 +1,7 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [02/07/2026]
-# Number:  [232]
+# Number:  [233]
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
@@ -217,6 +217,7 @@
 0.0.0.0 sg-new-cdn-ssplib-asia-southeast1-c-hb.mtgglobals.com
 0.0.0.0 sg-setting-tcp.mtgglobals.com
 0.0.0.0 shd-ads-vod.shahid.net
+0.0.0.0 ssapi.mosspf.com
 0.0.0.0 ssdk-sg.pangle.io.ttdns2.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.fallback.c10r.facebook.com
