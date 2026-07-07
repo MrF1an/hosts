@@ -1,7 +1,14 @@
 # Mr.FLan: [Hosts ADS]
 # History: [02/11/2024]
 # Update:  [07/07/2026]
-# Number:  [247]
+# Number:  [253]
+########## AD.Yandex ##########
+0.0.0.0 abs.yandex.ru
+0.0.0.0 avatars.mds.yandex.net
+0.0.0.0 content.adfox.ru
+0.0.0.0 yandex.com
+0.0.0.0 yandex.ru
+0.0.0.0 yastatic.net
 ########## GENERAL ##########
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adfox.yandex.ru
